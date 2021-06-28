@@ -1,4 +1,4 @@
-<img align="left" src="https://user-images.githubusercontent.com/39509244/123680816-81e84200-d81f-11eb-9150-b5475bc97e2c.png">
+<!-- <img align="left" src="https://user-images.githubusercontent.com/39509244/123680816-81e84200-d81f-11eb-9150-b5475bc97e2c.png"> -->
 <h2>Hey there! I'm Lautaro Garcia</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
@@ -11,7 +11,7 @@
 💬 &nbsp;Feel free to reach out to me for consulting, job opportunities, or just an interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at lautarojgarcia177@gmail.com.\
 📄 &nbsp;Please have a look at my [Résumé](https://lautarojgarcia177.github.io/CV/) for more details about me. I'm open to feedback and suggestions!
-
+<!-- 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
@@ -34,10 +34,9 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -58,9 +57,7 @@
 <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p>
+</p> -->
 
 -----
-Credits: [Aditya Vikram Singh](https://github.com/AVS1508)
-
-Last Edited on: 11/12/2020
+Last Edited on: 06/28/2021
