@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/39509244/123680816-81e84200-d81f-11eb-9150-b5475bc97e2c.png)
-
+<img align="left" src="https://user-images.githubusercontent.com/39509244/123680816-81e84200-d81f-11eb-9150-b5475bc97e2c.png">
 <h2>Hey there! I'm Lautaro Garcia</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
