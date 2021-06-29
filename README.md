@@ -23,8 +23,8 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
-![Gimp](https://img.shields.io/badge/-Gimp-05122A?style=flat&logo=Gimp)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Gimp](https://img.shields.io/badge/-Gimp-05122A?style=flat&logo=Gimp)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 
 
