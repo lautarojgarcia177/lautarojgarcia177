@@ -5,7 +5,7 @@
 
 ### 🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to develop software solutions and share my knowleadge to students.\
+💡 &nbsp;I like to develop software solutions.\
 🎓 &nbsp;I'm an Information Systems Engineer from Córdoba, Argentina, i graduated from National Technological University.\
 🌱 &nbsp;I'm on track for learning more about web software development, systems design, and cloud architecture.\
 💬 &nbsp;Feel free to reach out to me for consulting, job opportunities, or just an interesting discussion.\
