@@ -11,7 +11,7 @@
 💬 &nbsp;Feel free to reach out to me for consulting, job opportunities, or just an interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at lautarojgarcia177@gmail.com.\
 📄 &nbsp;Please have a look at my ![Résumé](https://lautarojgarcia177.github.io/CV/](https://drive.google.com/file/d/1-_neNC0_MVlo8GAflafWWO7aVgneOjru/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+My favorite search engine is [Resume](https://lautarojgarcia177.github.io/CV/](https://drive.google.com/file/d/1-_neNC0_MVlo8GAflafWWO7aVgneOjru/view?usp=sharing).
 
 ### 🛠 &nbsp;Tech Stack
 
