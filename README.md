@@ -5,10 +5,8 @@
 
 ### 🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to develop software solutions.\
-🎓 &nbsp;I'm an Information Systems Engineer from Córdoba, Argentina, i graduated from National Technological University.\
+🎓 &nbsp;I'm an Information Systems Engineer from Córdoba, Argentina, graduated from National Technological University.\
 🌱 &nbsp;I work with Javascript and have strong experience in Frontend.\
-✉️ &nbsp;You can shoot me an email at lautarojgarcia177@gmail.com.\
 
 ### ⚙️ &nbsp;GitHub Analytics
 
