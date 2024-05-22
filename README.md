@@ -5,8 +5,8 @@
 
 ### 🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm an Information Systems Engineer from Córdoba, Argentina, graduated from National Technological University.\
-🌱 &nbsp;I work with Javascript and have strong experience in Frontend.\
+🎓 &nbsp;I'm an Information Systems Engineer from Córdoba, Argentina, graduated from National Technological University.
+🌱 &nbsp;I work with Javascript and have strong experience in Frontend.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
