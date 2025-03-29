@@ -1,32 +1,84 @@
-<!-- <img align="left" src="https://user-images.githubusercontent.com/39509244/123680816-81e84200-d81f-11eb-9150-b5475bc97e2c.png"> -->
-<h2>Hey there! I'm Lautaro Jorge Garcia 👨</h2>
+# Lautaro Jorge Garcia  
+**Full-Stack Software Engineer**  
+📍 Córdoba, Argentina (Open to Remote Opportunities)  
+📧 [lautarojgarcia177@gmail.com](mailto:lautarojgarcia177@gmail.com)  
+📞 +54 9 351 315-8595  
+🔗 [GitHub](https://github.com/lautarojgarcia177) • [LinkedIn](https://www.linkedin.com/in/lautaro-jorge-garcia)
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+---
 
-### 🏻‍💻 &nbsp;About Me
+## 🧠 Professional Summary
 
-🎓 &nbsp;I'm an Information Systems Engineer from Córdoba, Argentina, graduated from National Technological University.\
-🌱 &nbsp;I work with Javascript and have strong experience in Frontend.
+Full-stack Software Engineer with 5+ years proven experience building scalable and robust web applications using React, Angular, Next.js, and Node.js. Proven track record in microservices architecture, cloud-native development with AWS, and automated testing. Strong communicator and educator, having designed and delivered programming courses for 1000+ students across Latin America. Passionate about clean code, UI/UX best practices, and mentoring junior developers.
 
-### ⚙️ &nbsp;GitHub Analytics
+---
 
-<p align="center">
-<a href="https://github.com/AVS1508">
+## 🛠️ Technical Skills
 
-  <img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lautarojgarcia177&show_icons=true&layout=compact&include_all_commits=true&count_private=true"/>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lautarojgarcia177&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- **Languages**: JavaScript, TypeScript, HTML, CSS, SQL, Bash  
+- **Frontend**: Angular (4–19), React, Vue 2/3, Next.js, Nuxt, Tailwind, SCSS, Angular Material, Bootstrap, NgRx, Pinia  
+- **Backend**: Node.js, Express, Nest.js  
+- **Testing**: Jest, Jasmine, Cucumber  
+- **DevOps & Cloud**: AWS (Lambda, S3, Rekognition, EC2, ECR, IAM, Cognito), Docker, GitHub Actions, Linux  
+- **Databases**: PostgreSQL, MongoDB, Prisma ORM  
+- **Tools**: Git, Figma
 
-<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/> -->
-</a>
-</p>
+---
 
-### 🤝🏻 &nbsp;Connect with Me
+## 🎓 Education
 
-<p align="start">
-<a href="mailto:lautarojgarcia177@gmail.com"><img src="https://img.shields.io/badge/-lautarojgarcia177@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/lautaro-garcia-b19b75164/"><img src="https://img.shields.io/badge/-Lautaro%20Garcia-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
+**National Technological University – Córdoba**  
+Bachelor’s in Information Systems Engineering (2013–2020) — GPA: 8.38
 
------
-Last Edited on: 06/28/2021
+---
+
+## 🌐 Languages
+
+- **English**: Professional Working Proficiency (B2/C1)  
+- **Spanish**: Native (Argentina)
+
+---
+
+## 💼 Work Experience
+
+### **Software Engineer — Intive** *(Aug 2021 – Present)*
+- Developed an e-commerce platform using Next.js, Nest.js, PostgreSQL, and Prisma ORM.
+- Built a property management app with Vue 3, Pinia, GitHub Actions, and TypeScript.
+- Developed CRM-integrated micro-frontend for contact centers using Angular and Avaya SDK.
+- Created tools for SMS/IVR campaigns with Angular 12, NgRx, and Jest (90%+ test coverage).
+- Automated backend API tests with Cucumber and TypeScript.
+
+### **Frontend Developer — Qvix Solutions** *(Mar 2020 – Jul 2021)*
+- Built a white-label IPTV/VOD platform using Angular 9, NgRx, Angular Material, Bootstrap, and SCSS.
+
+### **IT Support Intern — DUI** *(Nov 2018 – Feb 2020)*
+- Taught LibreOffice and provided public support with computer tools.
+
+---
+
+## 🧩 Freelance & Projects
+
+### **Ubice (2022–2024)**
+Full-stack app for image recognition at sporting events using React, Electron, AWS Rekognition, Lambda, EC2, and Vue 2.
+
+### **Landing Pages**
+- [All Tower](https://www.alltower.com.ar)  
+- [Property Investment SA](https://www.propertyinvestment.com.ar)  
+- [AgroindustriaTIT](https://www.agroindustriatit.ar)  
+- [Burokabit](https://www.burokabit.com.ar)  
+- [La Fábrica Cowork](https://lafabrica.ar) *(WordPress, currently offline – references available on request)*
+
+---
+
+## 🎙️ Instructor Experience
+
+### **Coderhouse (2020–Present)**
+- Instructor for Backend (Node.js), JavaScript, Angular, SQL, Manual QA, UX/UI, Excel.
+- Designed and recorded Angular Beginner and Advanced courses.
+
+### **EducacionIT (Sep 2022 – Apr 2024)**
+- Instructor for React with Next.js, Angular 2+, Progressive Web Apps (PWA with Workbox).
+
+---
+
+_Last updated: March 2025_
